@@ -1,24 +1,46 @@
-# Reef Navigator App
+# 🌊 Reef Navigator 
 
-The “Reef’s Navigator” App introduces a mobile application designed to enhance maritime safety 
-by providing sailors with a comprehensive map, facilitating the identification of safe routes and 
-avoiding collisions with coral reefs in the Red Sea. Using the advantages of Flutter for cross- 
-platform development and Mapbox for mapping technology, the application integrates AI-driven 
-features to dynamically compute and recommend secure routes. The primary objectives include 
-utilizing Allen Coral Atlas data to pinpoint reef locations, implementing Mapbox for interactive 
-mapping, and incorporating AI algorithms for real-time route optimization. The project employs 
-Flutter framework for the application’s front-end, Mapbox for mapping functionality, and integrates 
-Firebase for user authentication and data storage. Geospatial data from the Allen Atlas Coral is 
-retrieved to dynamically populate the map with reef locations. The application combines user
-friendly navigation, offering sailor a reliable tool to navigate the Red Sea safely
+[![Flutter](https://img.shields.io/badge/Flutter-3.13-blue?logo=flutter)](https://flutter.dev)
+[![Mapbox](https://img.shields.io/badge/Mapbox-11.1-lightgrey?logo=mapbox)](https://mapbox.com)
 
+An AI-powered maritime navigation app to safely navigate the Red Sea, avoiding coral reefs while optimizing routes and fuel efficiency. Built with **Flutter** and **Mapbox**.
 
-## Features
+![App Screenshot](https://github.com/user-attachments/assets/c6b380bb-459e-42e6-9df4-28bac6056937)
 
+## 🚀 Features
 
-- Weather check
-- Cross-platform support
-- English and Arabic language support
-- Calculate fuel consumption for the trip
-- System enables offline map downloads
-- Navigate the map to view surrounding reefs
+- **Reef Avoidance System**  
+  - Real-time AI route optimization using Allen Coral Atlas data
+  - Collision warnings with audible/visual alerts
+
+- **Offline-First Design**  
+  - Download high-resolution maps for offline use  
+  - GPS tracking without internet  
+
+- **Voyage Planning**  
+  - Fuel consumption calculator  
+  - Live weather integration (NOAA API)  
+
+- **Accessibility**  
+  - Bilingual support (English & Arabic)  
+
+## 🛠️ Tech Stack
+
+| Component         | Technology Used           |
+|-------------------|---------------------------|
+| Frontend          | Flutter (iOS & Android)   |
+| Mapping           | Mapbox SDK + Allen Coral Atlas |
+| AI Routing        | TensorFlow Lite (On-device) |
+| Backend           | Firebase (Auth & Storage) |
+| Weather Data      | NOAA API                  |
+
+## 🏗️Architectural Design
+![Architectural Screenshot](https://github.com/user-attachments/assets/486c093b-1d74-40c7-822e-52ca80be3176)
+
+## Developed by
+
+- Mariam Alaslani 
+- Atheer Alaslani 
+- Rama Albidani
+- Reem Alslehebi  
+- Moroj Alslehebi 
