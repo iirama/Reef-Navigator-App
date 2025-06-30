@@ -39,8 +39,8 @@ An AI-powered maritime navigation app to safely navigate the Red Sea, avoiding c
 
 ## Developed by
 
-- Mariam Alaslani 
-- Atheer Alaslani 
 - Rama Albidani
+- Atheer Alaslani 
+- Mariam Alaslani
 - Reem Alslehebi  
 - Moroj Alslehebi 
