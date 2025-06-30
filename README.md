@@ -44,3 +44,6 @@ An AI-powered maritime navigation app to safely navigate the Red Sea, avoiding c
 - Mariam Alaslani
 - Reem Alslehebi  
 - Moroj Alslehebi 
+
+## 📂 Additional Information
+Due to the proprietary nature of the code, some of the source code for this project is not available.
